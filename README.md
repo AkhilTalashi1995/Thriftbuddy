@@ -1,12 +1,11 @@
 
 
 <div align="center">
-<img src="/banner.png"  />
+<img src="/banner.png"  width="600px" height="300px" />
 </div>
-<H1 align="center">Thriftbuddy</H1>
 
 ## Overview
-Leetify is an online coding platform that offers a diverse collection of challenges to help developers prepare for technical interviews. Covering various data structures and algorithms like arrays, linked lists, trees, and graphs, it enhances problem-solving skills for software engineers, developers, and students, making it an effective tool for technical interview preparation.
+A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods on campus. We prioritize sustainability, community, and responsible consumption for an engaging digital experience.
 
 **Contributors:** @Akhil Talashi | @Zainab Kokawala | @Rutuja Ghate | @Vinutha Prakash
 
