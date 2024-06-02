@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="/" width="125px" />
+<img src="/banner.png"  />
 </div>
 <H1 align="center">Thriftbuddy</H1>
 
