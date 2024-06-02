@@ -5,7 +5,7 @@
 </div>
 
 ## Overview
-A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods on campus. We prioritize sustainability, community, and responsible consumption for an engaging digital experience.
+ThriftBuddy is a tailored marketplace designed exclusively for students, providing a dynamic platform for buying, selling, and responsibly disposing of second-hand products within the university community. Our focus is on creating a seamless and engaging digital experience that aligns with the values of sustainability, community, and responsible consumption.
 
 **Contributors:** @Akhil Talashi | @Zainab Kokawala | @Rutuja Ghate | @Vinutha Prakash
 
